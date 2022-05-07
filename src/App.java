@@ -34,6 +34,7 @@ public class App {
         // Initialize user input
         int n = 0;
 
+        // Loop runs while the user does NOT select option 5
         while (n != 5) {
 
             // Menu options

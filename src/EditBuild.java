@@ -13,6 +13,7 @@ public class EditBuild {
         // Initialize user input
         int o = 0;
 
+        // Loop runs while the user does NOT select option 5
         while (o != 5) {
 
             // Menu options
