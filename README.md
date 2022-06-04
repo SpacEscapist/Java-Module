@@ -1,6 +1,6 @@
 # Overview
 
-This program acts like an app to simulate ordering computer parts. It allows your to interact with a menu to select computer parts you wish to order. It also allows for changing your order by editing the items you've already added to your list. This program will use ArrayList to place the items you order in a list, as well as placing the price of the items in a list. The program will allow you to view this list and total cost of parts.
+This program acts like an app to simulate ordering computer parts. It allows you to interact with a menu to select computer parts you wish to order. It also allows for changing your order by editing the items you've already added to your list. This program will use ArrayList to place the items you order in a list, as well as placing the price of the items in a list. The program will allow you to view this list and total cost of parts.
 
 This program was created to showcase my learning/understanding of the Java language basics - using variables, expressions, conditionals, loops, functions, classes, and data structures from the Java Collection Framework (using ArrayList)
 
